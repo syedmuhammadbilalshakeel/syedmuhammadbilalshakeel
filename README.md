@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **syedmuhammadbilal638@gmail.com**
 
-[![@syedmuhammadbilal's Holopin board](https://holopin.me/syedmuhammadbilal)](https://holopin.io/@syedmuhammadbilal)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,3 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syedmuhammadbilalshakeel&show_icons=true&locale=en" alt="syedmuhammadbilalshakeel" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syedmuhammadbilalshakeel&" alt="syedmuhammadbilalshakeel" /></p>
+[![@syedmuhammadbilal's Holopin board](https://holopin.me/syedmuhammadbilal)](https://holopin.io/@syedmuhammadbilal)
