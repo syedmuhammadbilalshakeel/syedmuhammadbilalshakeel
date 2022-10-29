@@ -29,5 +29,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syedmuhammadbilalshakeel&" alt="syedmuhammadbilalshakeel" /></p>
 
-
 [![@syedmuhammadbilal's Holopin board](https://holopin.me/syedmuhammadbilal)](https://holopin.io/@syedmuhammadbilal)
